@@ -1,0 +1,10 @@
+hash64/output.txt
+md2adoc/output.txt
+rank/output.txt
+toc/output.txt
+verify-zips/output.txt
+hash64/__pycache__/
+md2adoc/__pycache__/
+rank/__pycache__/
+toc/__pycache__/
+verify-zips/__pycache__/
